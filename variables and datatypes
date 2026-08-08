@@ -1,0 +1,30 @@
+name = "Fatima"          # string
+age = 29                 # integer
+height = 5.3             # float
+is_student = True        # boolean
+
+print(name)
+print(age)
+print(height)
+name = "Fatima"
+age = 29
+height = 5.3
+is_student = True
+
+print(type(name))
+print(type(age))
+print(type(height))
+print(type(is_student))
+length = 10
+width = 5
+
+area = length * width
+
+print("Area =", area)
+print("Area =", area, "square units")
+first_name = "Fatima"
+last_name = "Mateen"
+
+full_name = first_name + " " + last_name
+
+print(full_name)
